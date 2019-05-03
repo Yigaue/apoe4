@@ -158,7 +158,7 @@
 				} else {
 					document.getElementById("scrollBut").style.display = "none";
 				}
-			};
+			}
 		},
 		computed: {
 			...mapGetters(['links'])
